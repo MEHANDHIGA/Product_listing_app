@@ -49,6 +49,9 @@ Controller → API & business logic
 ### State Management
 - setState()
 
+## 📂 Project Structure
+
+```
 lib/
 │
 ├── models/
@@ -64,7 +67,7 @@ lib/
 │
 └── widgets/
     └── product_card.dart
-
+```
 
 # 🛠 Tech Stack
 
