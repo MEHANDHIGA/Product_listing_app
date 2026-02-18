@@ -49,26 +49,22 @@ Controller → API & business logic
 ### State Management
 - setState()
 
----
-
-# 📂 Project Structure
 lib/
 │
 ├── models/
-│ └── product_model.dart
+│   └── product_model.dart
 │
 ├── controllers/
-│ └── product_controller.dart
+│   └── product_controller.dart
 │
 ├── views/
-│ ├── login_screen.dart
-│ ├── product_list_screen.dart
-│ └── product_detail_screen.dart
+│   ├── login_screen.dart
+│   ├── product_list_screen.dart
+│   └── product_detail_screen.dart
 │
 └── widgets/
-└── product_card.dart
+    └── product_card.dart
 
----
 
 # 🛠 Tech Stack
 
