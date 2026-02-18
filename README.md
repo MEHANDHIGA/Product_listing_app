@@ -84,13 +84,16 @@ lib/
 # 📸 Screenshots
 
 ## Login Screen
-![Login Screen](assets/screenshots/Login-1&2.jpeg)
+![Login Screen](assets/screenshots/Login-1.jpeg)
+![Login Screen](assets/screenshots/Login-2.jpeg)
 
 ## Product List Screen
-![Product List](assets/screenshots/Product_list-1&2.jpeg)
+![Product List](assets/screenshots/Product_list-1.jpeg)
+![Product List](assets/screenshots/Product_list-2.jpeg)
 
 ## Product Detail Screen
-![Product Detail](assets/screenshots/Product_detail-1&2.jpeg)
+![Product Detail](assets/screenshots/Product_detail-1.jpeg)
+![Product Detail](assets/screenshots/Product_detail-2.jpeg)
 
 ---
 
