@@ -1,7 +1,6 @@
-# 📱 Product Listing App (Flutter Internship Assessment)
+# 📱 Product Listing App
 
-This is a Flutter Product Listing App developed as part of a Flutter Developer Intern / Entry-Level Technical Assessment.
-
+This is a Flutter project of Product Listing App. 
 The app demonstrates Flutter UI design, API integration, MVC architecture, and state management using setState.
 
 ---
