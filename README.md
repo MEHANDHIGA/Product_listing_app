@@ -1,7 +1,8 @@
 # 📱 Product Listing App
-
+```
 This is a Flutter project of Product Listing App. 
 The app demonstrates Flutter UI design, API integration, MVC architecture, and state management using setState.
+```
 
 ---
 
@@ -44,8 +45,12 @@ View → UI screens
 Controller → API & business logic
 ```
 
+---
+
 ### State Management
 - setState()
+
+---
 
 ## 📂 Project Structure
 
@@ -66,6 +71,8 @@ lib/
 └── widgets/
     └── product_card.dart
 ```
+
+---
 
 # 🛠 Tech Stack
 
