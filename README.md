@@ -39,12 +39,11 @@ The app demonstrates Flutter UI design, API integration, MVC architecture, and s
 # 🏗 Architecture Used
 
 MVC (Model – View – Controller)
-
+```
 Model → Data layer (Product model)
 View → UI screens
 Controller → API & business logic
-
----
+```
 
 ### State Management
 - setState()
@@ -103,6 +102,8 @@ Download here: assets/videos/Demo.mp4
 ---
 
 # 👨‍💻 Developer
+```
 Mehandhiga Muthusamy
 Flutter Developer Intern Candidate
+```
 
